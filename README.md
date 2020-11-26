@@ -1,9 +1,9 @@
 ## Hello, I am Fanan  :wave:
 -  :computer: I am a full-stack developer
 -  :triangular_ruler: I am obsessed with creating great code architecture that scales
-- :elephant: I have been coding in PHP   for over 5 years but recently I have started to work a lot with Go
+- :elephant: I have been coding backend services in PHP   for over 5 years but recently I have started to work a lot with Go
 -  :swimmer: I love swimming
--  :violin: I love classical musc (Debussy and Bach have my heart. And yes, I play the violin too)
+-  :violin: I love classical music (Debussy and Bach have my heart. And yes, I play the violin too)
 
 ### Here are a few projects I would love for you too see
 - [Shapey: An SPA that allows you to draw shapes](https://github.com/the-fanan/Kudy-Frontend-Challenge)
