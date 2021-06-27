@@ -5,16 +5,17 @@
 -  :swimmer: I love swimming
 -  :violin: I love classical music (Debussy and Bach have my heart. And yes, I play the violin too)
 
-### Here are a few projects I would love for you too see
-- [Shapey: An SPA that allows you to draw shapes](https://github.com/the-fanan/Kudy-Frontend-Challenge)
-- [A Simple Social Network With Laravel & Vue](https://github.com/the-fanan/FreeMeSocial)
-- [A Clone Of My Github Profile](https://github.com/the-fanan/github-profile-clone)
-- [Practice: Algorithms & Data Structures with Go](https://github.com/the-fanan/algorithms-and-data-structures-with-go)
-- [Practice: Design Patterns With Go](https://github.com/the-fanan/Design-Patterns-With-Go)
+### Here are a few projects I would love for you to see
+- [Shapey: An SPA that allows you to draw shapes, built with Vue & NuxtJS](https://github.com/the-fanan/Kudy-Frontend-Challenge)
+- [A Simple API Built With Ruby On Rails](https://github.com/the-fanan/ruby-practice)
+- [A Clone Of My Github Profile Querying Github's GraphQL API Built With Vanilla JS & CSS](https://github.com/the-fanan/github-profile-clone)
+- [My Notes From Kubernetes Courses I took](https://github.com/the-fanan/kubernetes)
+- [Algorithms & Data Structures With Go](https://github.com/the-fanan/algorithms-and-data-structures-with-go)
+- [A Simple Social Network Built With Laravel & Vue](https://github.com/the-fanan/FreeMeSocial)
 
 
-### I love helping people learn things I found difficult
-Here are a few articles and forum anwers from me
+### I love helping people eaily understand things I found difficult
+Here are a few articles and forum anwers by me
 - [Understanding The Boyer-Moore Algorithm](https://medium.com/better-programming/understanding-the-boyer-moore-algorithm-in-bits-247f6e66c820)
 - [Understanding The Knuth-Morris-Pratt Algorithm](https://medium.com/analytics-vidhya/understanding-the-knuth-morris-pratt-algorithm-in-bits-d21d93992057)
 - [Common Gotcha With Github Actions and Go](https://stackoverflow.com/questions/62568643/github-actions-cant-find-package-within-repository/62573465#62573465)
