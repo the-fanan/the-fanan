@@ -14,7 +14,7 @@
 - [A Simple Social Network Built With Laravel & Vue](https://github.com/the-fanan/FreeMeSocial)
 
 
-### I love helping people eaily understand things I found difficult
+### I love helping people easily understand things I found difficult
 Here are a few articles and forum anwers by me
 - [Understanding The Boyer-Moore Algorithm](https://medium.com/better-programming/understanding-the-boyer-moore-algorithm-in-bits-247f6e66c820)
 - [Understanding The Knuth-Morris-Pratt Algorithm](https://medium.com/analytics-vidhya/understanding-the-knuth-morris-pratt-algorithm-in-bits-d21d93992057)
