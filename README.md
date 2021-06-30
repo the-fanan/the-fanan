@@ -6,10 +6,12 @@
 -  :violin: I love classical music (Debussy and Bach have my heart. And yes, I play the violin too)
 
 ### Here are a few projects I would love for you to see
-- [Shapey: An SPA that allows you to draw shapes, built with Vue & NuxtJS](https://github.com/the-fanan/Kudy-Frontend-Challenge)
+
 - [A Simple API Built With Ruby On Rails](https://github.com/the-fanan/ruby-practice)
+- [Algorithms & Data Structures With Python](https://github.com/the-fanan/python-algorithms-practice)
 - [A Clone Of My Github Profile Querying Github's GraphQL API Built With Vanilla JS & CSS](https://github.com/the-fanan/github-profile-clone)
 - [My Notes From Kubernetes Courses I took](https://github.com/the-fanan/kubernetes)
+- [Shapey: An SPA that allows you to draw shapes, built with Vue & NuxtJS](https://github.com/the-fanan/Kudy-Frontend-Challenge)
 - [Algorithms & Data Structures With Go](https://github.com/the-fanan/algorithms-and-data-structures-with-go)
 - [A Simple Social Network Built With Laravel & Vue](https://github.com/the-fanan/FreeMeSocial)
 
