@@ -1,7 +1,7 @@
 ## Hello, I am Fanan  :wave:
 -  :computer: I am a full-stack developer
 -  :triangular_ruler: I am obsessed with creating great code architecture that scales
-- :elephant: I have been coding backend services in PHP   for over 5 years but recently I have started to work a lot with Go
+- :elephant: I have been coding backend services in PHP for over 5 years but recently I have started to work a lot with other languages like Go, Python & Ruby
 -  :swimmer: I love swimming
 -  :violin: I love classical music (Debussy and Bach have my heart. And yes, I play the violin too)
 
