@@ -7,7 +7,7 @@
 
 ### Here are a few projects I would love for you to see
 
-- [A Simple API Built With Ruby On Rails](https://github.com/the-fanan/ruby-practice)
+- [A Simple GraphQL API To Get Family Tree, Built With Ruby On Rails](https://github.com/the-fanan/ruby-practice)
 - [Algorithms & Data Structures With Python](https://github.com/the-fanan/python-algorithms-practice)
 - [A Clone Of My Github Profile Querying Github's GraphQL API Built With Vanilla JS & CSS](https://github.com/the-fanan/github-profile-clone)
 - [My Notes From Kubernetes Courses I took](https://github.com/the-fanan/kubernetes)
