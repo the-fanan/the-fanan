@@ -6,14 +6,22 @@
 -  :violin: I love classical music (Debussy and Bach have my heart. And yes, I play the violin too)
 
 ### Here are a few projects I would love for you to see
-
-- [A Simple GraphQL API To Get Family Tree, Built With Ruby On Rails](https://github.com/the-fanan/ruby-practice)
-- [Algorithms & Data Structures With Python](https://github.com/the-fanan/python-algorithms-practice)
+#### APIs
+- [Ruby On Rails: A Simple GraphQL API For Family Tree](https://github.com/the-fanan/ruby-practice)
+- [Go (Mux & Gorm): An Event Management REST API](https://github.com/the-fanan/go-event-api)
+#### JavaScript, HTML & CSS
+- [Vue & NuxtJS: An SSR that allows you to draw shapes](https://github.com/the-fanan/Kudy-Frontend-Challenge)
 - [A Clone Of My Github Profile Querying Github's GraphQL API Built With Vanilla JS & CSS](https://github.com/the-fanan/github-profile-clone)
-- [My Notes From Kubernetes Courses I took](https://github.com/the-fanan/kubernetes)
-- [Shapey: An SPA that allows you to draw shapes, built with Vue & NuxtJS](https://github.com/the-fanan/Kudy-Frontend-Challenge)
-- [Algorithms & Data Structures With Go](https://github.com/the-fanan/algorithms-and-data-structures-with-go)
-- [A Simple Social Network Built With Laravel & Vue](https://github.com/the-fanan/FreeMeSocial)
+- [Vue & Nuxt: Talent Management website](https://github.com/the-fanan/ijaya-frontend)
+#### General Knowledge Building
+- [Kubernetes: My Notes From Courses I took](https://github.com/the-fanan/kubernetes)
+- [Go: Algorithms & Data Structures](https://github.com/the-fanan/algorithms-and-data-structures-with-go)
+- [Go: Design Patterns](https://github.com/the-fanan/Design-Patterns-With-Go)
+- [Python: Algorithms & Data Structures](https://github.com/the-fanan/python-algorithms-practice)
+#### Fullstack
+- [Laravel & Vue: A Simple Social Network](https://github.com/the-fanan/FreeMeSocial)
+- [Ruby: A Simple Event Management App](https://github.com/the-fanan/ruby-events-app)
+- [Laravel & Vue: Hotel Booking Manager](https://github.com/the-fanan/hotel-booking-manager)
 
 
 ### I love helping people easily understand things I found difficult
