@@ -14,6 +14,7 @@
 - [A Clone Of My Github Profile Querying Github's GraphQL API Built With Vanilla JS & CSS](https://github.com/the-fanan/github-profile-clone)
 - [Vue & Nuxt: Talent Management website](https://github.com/the-fanan/ijaya-frontend)
 #### General Knowledge Building
+- [Etheruem and Blockchain Technology](https://github.com/the-fanan/solidity-practice)
 - [Kubernetes: My Notes From Courses I took](https://github.com/the-fanan/kubernetes)
 - [Go: Algorithms & Data Structures](https://github.com/the-fanan/algorithms-and-data-structures-with-go)
 - [Go: Design Patterns](https://github.com/the-fanan/Design-Patterns-With-Go)
