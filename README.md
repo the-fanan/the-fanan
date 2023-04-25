@@ -1,11 +1,18 @@
 ## Hello, I am Fanan  :wave:
 -  :computer: I am a full-stack developer
 -  :triangular_ruler: I am obsessed with creating great code architecture that scales
-- :elephant: I have been coding backend services in PHP for over 5 years but recently I have started to work a lot with other languages like Go, Python & Ruby
+- :elephant: I have been coding backend services for over 5 years and I have worked a lot with languages like Go, Ruby, and PHP
 -  :swimmer: I love swimming
 -  :violin: I love classical music (Debussy and Bach have my heart. And yes, I play the violin too)
 
 ### Here are a few projects I would love for you to see
+#### General Knowledge Building
+- [Etheruem and Blockchain Technology](https://github.com/the-fanan/solidity-practice)
+- [Kubernetes: My Notes From Courses I took](https://github.com/the-fanan/kubernetes)
+- [Go: Algorithms & Data Structures](https://github.com/the-fanan/algorithms-and-data-structures-with-go)
+- [Go: Design Patterns](https://github.com/the-fanan/Design-Patterns-With-Go)
+- [Python: Algorithms & Data Structures](https://github.com/the-fanan/python-algorithms-practice)
+
 #### APIs
 - [Ruby On Rails: A Simple GraphQL API For Family Tree](https://github.com/the-fanan/ruby-practice)
 - [Go (Mux & Gorm): An Event Management REST API](https://github.com/the-fanan/go-event-api)
@@ -13,12 +20,7 @@
 - [Vue & NuxtJS: An SSR that allows you to draw shapes](https://github.com/the-fanan/Kudy-Frontend-Challenge)
 - [A Clone Of My Github Profile Querying Github's GraphQL API Built With Vanilla JS & CSS](https://github.com/the-fanan/github-profile-clone)
 - [Vue & Nuxt: Talent Management website](https://github.com/the-fanan/ijaya-frontend)
-#### General Knowledge Building
-- [Etheruem and Blockchain Technology](https://github.com/the-fanan/solidity-practice)
-- [Kubernetes: My Notes From Courses I took](https://github.com/the-fanan/kubernetes)
-- [Go: Algorithms & Data Structures](https://github.com/the-fanan/algorithms-and-data-structures-with-go)
-- [Go: Design Patterns](https://github.com/the-fanan/Design-Patterns-With-Go)
-- [Python: Algorithms & Data Structures](https://github.com/the-fanan/python-algorithms-practice)
+
 #### Fullstack
 - [Laravel & Vue: A Simple Social Network](https://github.com/the-fanan/FreeMeSocial)
 - [Ruby: A Simple Event Management App](https://github.com/the-fanan/ruby-events-app)
