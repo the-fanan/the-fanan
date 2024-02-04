@@ -17,7 +17,6 @@
 - [Ruby On Rails: A Simple GraphQL API For Family Tree](https://github.com/the-fanan/ruby-practice)
 - [Go (Mux & Gorm): An Event Management REST API](https://github.com/the-fanan/go-event-api)
 #### JavaScript, HTML & CSS
-- [Vue & NuxtJS: An SSR that allows you to draw shapes](https://github.com/the-fanan/Kudy-Frontend-Challenge)
 - [A Clone Of My Github Profile Querying Github's GraphQL API Built With Vanilla JS & CSS](https://github.com/the-fanan/github-profile-clone)
 - [Vue & Nuxt: Talent Management website](https://github.com/the-fanan/ijaya-frontend)
 
